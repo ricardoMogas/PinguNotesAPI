@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7eNeQQCkoG7FFcpRSebHKLubl6gXSrw0XmPwFvQaKg0=",
+  "Source": "PinguNotesAPI",
+  "BasePath": "_content/PinguNotesAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,6 @@
+@PinguNotesAPI_HostAddress = http://localhost:5113
+
+GET {{PinguNotesAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
